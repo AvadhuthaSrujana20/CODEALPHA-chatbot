@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial Intelligence, or AI, is technology that enables computers to perform tasks that normally require human intelligence."
+    },
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a branch of AI where computers learn patterns from data and use those patterns to make predictions or decisions."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "Natural Language Processing is a field of AI that allows computers to process and understand human language."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a software application that communicates with users through text or speech."
+    },
+    {
+        "question": "How can I reset my password?",
+        "answer": "You can reset your password by clicking the Forgot Password link on the login page and following the instructions."
+    },
+    {
+        "question": "How do I create an account?",
+        "answer": "Click the Sign Up or Create Account button and provide the required information."
+    },
+    {
+        "question": "How do I contact customer support?",
+        "answer": "You can contact customer support through the support page, email, or phone number provided by the organization."
+    },
+    {
+        "question": "What are your business hours?",
+        "answer": "Our business hours are Monday to Friday from 9 AM to 6 PM."
+    },
+    {
+        "question": "Where are you located?",
+        "answer": "Our office location and address are available on the Contact Us page."
+    },
+    {
+        "question": "How can I cancel my order?",
+        "answer": "You can cancel an order from your account's Orders section if the order has not already been processed."
+    }
+]
